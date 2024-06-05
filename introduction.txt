@@ -1,0 +1,4 @@
+in this lecture i learned about intro about nodejs installing the complete setup. i have installed the nodejs LTS and 
+other necessarry was already installed on my system.
+- in the third lecture we learned about the course outline.
+
